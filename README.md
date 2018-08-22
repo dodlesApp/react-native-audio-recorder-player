@@ -1,5 +1,8 @@
 
 # react-native-audio-recorder-player
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/dooboolab/react-native-audio-recorder-player.svg)](https://greenkeeper.io/)
+
 <p align="left">
   <a href="https://npmjs.org/package/react-native-audio-recorder-player"><img alt="npm version" src="http://img.shields.io/npm/v/react-native-audio-recorder-player.svg?style=flat-square"></a>
   <a href="https://npmjs.org/package/react-native-audio-recorder-player"><img alt="npm version" src="http://img.shields.io/npm/dm/react-native-audio-recorder-player.svg?style=flat-square"></a>
